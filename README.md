@@ -1,3 +1,8 @@
+# postgresql - binary
+- create a app.py file and copy the script code, manually install the dependencies including postgresql-binary and run it
+
+
+
 # db-to-sqlite
 
 [![PyPI](https://img.shields.io/pypi/v/db-to-sqlite.svg)](https://pypi.python.org/pypi/db-to-sqlite)
